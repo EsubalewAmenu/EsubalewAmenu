@@ -6,6 +6,8 @@ I am Esubalew A., currently working as a programmer at the [SingularityNet.io](h
 [![Gmail Badge](https://img.shields.io/badge/-esubalew.a2009%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esubalew.a2009@gmail.com)](mailto:esubalew.a2009@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/esubalew.amenu-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/esubalew.amenu/)](https://www.facebook.com/esubalew.amenu/)
 
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/esubalewamenu/beautify-github-profile?style=flat-square"> <img alt="GitHub forks" src="https://img.shields.io/github/forks/rzashakeri/beautify-github-profile?style=flat-square"> <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/rzashakeri/beautify-github-profile?style=flat-square"> <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub" src="https://img.shields.io/github/license/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square"> <img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/rzashakeri/beautify-github-profile?color=blue&style=flat-square">
+
 
 ## ⚡ Technologies
 
